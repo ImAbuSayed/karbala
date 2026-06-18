@@ -2,7 +2,7 @@
 
 ---
 
-![Karbala feature image](F:/MyMusicAlbum/New Songs From Suno/Karbala.webp)
+![Karbala feature image](https://raw.githubusercontent.com/ImAbuSayed/abu-sayed-song-media/main/images/karbala/feature/20260618231719634366-Karbala.webp)
 
 ---
 
@@ -21,7 +21,7 @@
 | **Released On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/karbala/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Karbala](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/karbala/) |
+| **Get License** | [Request Licensing for Karbala](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/karbala/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 

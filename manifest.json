@@ -12,12 +12,12 @@
   "spotify_link": "",
   "apple_music_link": "",
   "website_link": "",
-  "feature_image_url": "F:/MyMusicAlbum/New Songs From Suno/Karbala.webp",
+  "feature_image_url": "https://raw.githubusercontent.com/ImAbuSayed/abu-sayed-song-media/main/images/karbala/feature/20260618231719634366-Karbala.webp",
   "sha256_hash": "0a4744b056df988800ebbabbb9c03c74512e5f5b3620beb4e21ca577ef9bd3c1",
   "sha256_raw_hash": "07ac2605ab38572f9728b4f2ea89114e83a00483e88c6f386a25020a67514a47",
   "lyric_version": 1,
   "proof_timestamp": "2026-06-19T04:56:13.387769",
   "song_creation_date": "June 19, 2026 at 2:25 AM",
   "official_release_date": "June 19, 2026",
-  "generated_at": "2026-06-18T23:04:45Z"
+  "generated_at": "2026-06-18T23:17:35Z"
 }
