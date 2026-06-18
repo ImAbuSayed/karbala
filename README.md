@@ -21,7 +21,7 @@
 | **Released On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/karbala/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Karbala](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/karbala/) |
+| **Get License** | [Commercial Licensing for Karbala](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/karbala/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
